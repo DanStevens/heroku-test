@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DanStevens/heroku-test/issues"
   },
-  "homepage": "https://dstevens-test.herokuapp.com"
+  "homepage": "https://dstevens-test.herokuapp.com",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
