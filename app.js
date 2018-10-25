@@ -9,7 +9,7 @@ app.get("/users/:name", function(req, res) {
   res.send(`<h1>Hello, ${req.params["name"]}</h1>`);
 });
 
-app.listen(3000, function(error) {
+app.listen(80, function(error) {
   if (error) {
     console.log("An error occurred: " + error);
   } else {
