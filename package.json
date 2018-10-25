@@ -19,5 +19,8 @@
   "homepage": "https://dstevens-test.herokuapp.com",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "8.12.0"
   }
 }
